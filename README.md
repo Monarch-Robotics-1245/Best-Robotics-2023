@@ -1,8 +1,6 @@
 # Best-Robotics-2023
 
-
-
-Ports:
+Motor Ports:
 1  - 
 2  - 
 3  - Large 1
