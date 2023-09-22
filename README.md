@@ -1,5 +1,11 @@
 # Best-Robotics-2023
 
+Modes:
+1 - Manual
+2 - Semi Auto
+3 - Full Auto
+4 - Idle
+
 Motor Ports:
 1  - 
 2  - 
